@@ -1,9 +1,0 @@
-
-* {}
-
-.topo{background-color:lightgray; height:100px; width: 100%; position:fixed;}
-	.logomarca{width:100px; height:60px; text-decoration:none; }
-	.menu{}
-	.menu ul{}
-		.menu li{text-decoration:none; color:black; background-color:white;}
-		.menu li:hover{background-color:black; color:white;}
